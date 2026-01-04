@@ -310,10 +310,9 @@ hacker = RishuKumar()
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A1%EF%B8%8F+Security+is+not+a+feature;it's+a+mindset+;%F0%9F%94%84+Break+-+Analyze+-+Secure+-+Repeat;%F0%9F%95%B5%EF%B8%8F+Think+like+a+hacker%2C;+defend+like+a+guardian" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A1%EF%B8%8F+Security+is+not+a+feature;it's+a+mindset+;%F0%9F%94%84+Break+-+Analyze+-+Secure+-+Repeat;%F0%9F%95%B5%EF%B8%8F+Think+like+a+hacker%2C;+defend+like+a+guardian" alt="Typing SVG" style="display:block;margin:auto;"/>
   </a>
 </p>
-
 
 ---
 
