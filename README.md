@@ -5,7 +5,9 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🛡️+Penetration+Testing+%7C+Bug+Bounty+Hunter;🔐+Application+Security+%7C+VAPT+Specialist;👨‍💻+President+%40CyberHunter+Club+%7C+Ethical+Hacker;🏴‍☠️+CTF+Player+%7C+Security+Researcher" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&height=100&lines=🛡️+Penetration+Testing+|+Bug+Bounty+Hunter;🔐+Application+Security+|+VAPT+Specialist;👨‍💻+President+@CyberHunter+Club+|+Ethical+Hacker;🏴‍☠️+CTF+Player+|+Security+Researcher" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
