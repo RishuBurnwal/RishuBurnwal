@@ -130,8 +130,7 @@ and **defensive & offensive security operations**.
 ## 📊 GitHub Analytics (Neon Dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuBurnwal&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=RishuBurnwal&theme=radical&hide_border=true" height="165"/>
+  <img src="https://metrics.lecoq.io/RishuBurnwal?template=terminal&theme=dark&config.timezone=Asia/Kolkata" />
 </p>
 
 <p align="center">
