@@ -5,24 +5,16 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=22
-    &pause=1000
-    &color=00FFF7
-    &center=true
-    &vCenter=true
-    &width=750
-    &height=110
-    &multiline=true
-    &lines=Penetration+Testing+%7C+Bug+Bounty;
-    Application+Security+%7C+VAPT+Specialist;
-    President+%40+CyberHunter+Club;
-    CTF+Player+%7C+Security+Researcher"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Bug+Bounty+Hunter" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=Application+Security+%7C+VAPT+Specialist" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=President+%40+CyberHunter+Club" />
+</p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
@@ -395,12 +387,17 @@ I'm always interested in:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=00FFF7&center=true&vCenter=true&width=650&lines=If+this+profile+inspired+you%2C+consider+starring+my+repositories" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=⭐+If+this+profile+inspired+you%2C+consider+starring+my+repositories!;💡+Open+to+collaborations+and+security+research;🔐+Let's+make+the+digital+world+more+secure+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00FFF7&center=true&vCenter=true&width=650&lines=Open+to+collaborations+and+security+research" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=00FFF7&center=true&vCenter=true&width=650&lines=Lets+make+the+digital+world+more+secure+together" />
+</p>
+
 
 ---
 
