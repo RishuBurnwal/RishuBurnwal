@@ -60,7 +60,7 @@ and **defensive & offensive security operations**.
 
 ### 💻 Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,sql,docker,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,mysql,nodejs,docker,git,linux,kali"/>
 </p>
 
 ### 🛡️ Cybersecurity
@@ -130,12 +130,12 @@ and **defensive & offensive security operations**.
 ## 📊 GitHub Analytics (Neon Dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuBurnwal&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuBurnwal&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuBurnwal&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=RishuBurnwal&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuBurnwal&theme=matrix&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuBurnwal&theme=radical&no-frame=true&row=1&margin-w=15"/>
 </p>
 
 ---
