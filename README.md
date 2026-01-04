@@ -133,11 +133,6 @@ and **defensive & offensive security operations**.
   <img src="https://ghchart.rshah.org/00ffcc/RishuBurnwal" alt="GitHub Contribution Chart"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuBurnwal&theme=radical&no-frame=true&row=1&margin-w=15"/>
-</p>
-
 ---
 
 ## 🧠 Security Philosophy
