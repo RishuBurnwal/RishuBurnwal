@@ -130,8 +130,9 @@ and **defensive & offensive security operations**.
 ## 📊 GitHub Analytics (Neon Dark)
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/RishuBurnwal?template=terminal&theme=dark&config.timezone=Asia/Kolkata" />
+  <img src="https://ghchart.rshah.org/00ffcc/RishuBurnwal" alt="GitHub Contribution Chart"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RishuBurnwal&theme=radical&no-frame=true&row=1&margin-w=15"/>
