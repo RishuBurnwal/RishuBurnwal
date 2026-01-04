@@ -144,11 +144,6 @@ and **defensive & offensive security operations**.
 <p align="center">
   <img src="https://ghchart.rshah.org/00ffcc/RishuBurnwal" alt="GitHub Contribution Chart"/>
 </p>
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuBurnwal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
