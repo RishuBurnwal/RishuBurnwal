@@ -129,6 +129,18 @@ and **defensive & offensive security operations**.
 
 ## 📊 GitHub Analytics (Neon Dark)
 
+<div align="center">
+  <a href="https://github.com/RishuBurnwal">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishuBurnwal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=7f00ff&text_color=ffffff"/>
+  </a>
+  <a href="https://github.com/RishuBurnwal">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishuBurnwal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff"/>
+  </a>
+</div>
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishuBurnwal&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
 <p align="center">
   <img src="https://ghchart.rshah.org/00ffcc/RishuBurnwal" alt="GitHub Contribution Chart"/>
 </p>
