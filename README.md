@@ -309,8 +309,11 @@ hacker = RishuKumar()
 ## 🧠 Security Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%22Security+is+not+a+feature+—+it's+a+mindset.%22;Break+▸+Analyze+▸+Secure+▸+Repeat;Think+like+a+hacker%2C+defend+like+a+guardian." alt="Philosophy" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A1%EF%B8%8F+Security+is+not+a+feature;it's+a+mindset+;%F0%9F%94%84+Break+-+Analyze+-+Secure+-+Repeat;%F0%9F%95%B5%EF%B8%8F+Think+like+a+hacker%2C;+defend+like+a+guardian" alt="Typing SVG"/>
+  </a>
 </p>
+
 
 ---
 
@@ -376,17 +379,7 @@ I'm always interested in:
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=00FFF7&center=true&vCenter=true&width=650&lines=If+this+profile+inspired+you%2C+consider+starring+my+repositories" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00FFF7&center=true&vCenter=true&width=650&lines=Open+to+collaborations+and+security+research" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=00FFF7&center=true&vCenter=true&width=650&lines=Lets+make+the+digital+world+more+secure+together" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%AD%90+If+this+inspired+you++;%F0%9F%92%A1+Open+to+collaborations++;%F0%9F%94%90+Secure+the+digital+world)](https://git.io/typing-svg)
 
 
 ---
