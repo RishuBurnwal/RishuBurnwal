@@ -5,16 +5,24 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Bug+Bounty+Hunter" />
+  <img
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=22
+    &pause=1000
+    &color=00FFF7
+    &center=true
+    &vCenter=true
+    &width=750
+    &height=110
+    &multiline=true
+    &lines=Penetration+Testing+%7C+Bug+Bounty;
+    Application+Security+%7C+VAPT+Specialist;
+    President+%40+CyberHunter+Club;
+    CTF+Player+%7C+Security+Researcher"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=Application+Security+%7C+VAPT+Specialist" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00FFF7&center=true&vCenter=true&width=600&lines=President+%40+CyberHunter+Club" />
-</p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
