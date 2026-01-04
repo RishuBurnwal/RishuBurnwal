@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A1%EF%B8%8F+Penetration+Testing+%7C+Bug+Bounty+;%F0%9F%94%90+Application+Security+%7C+VAPT+Specialist++;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+President+%40+CyberHunter+Club+;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+CTF+Player+%7C+Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A1%EF%B8%8F+Penetration+Testing+%7C+Bug+Bounty+;%F0%9F%94%90+Application+Security+%7C+VAPT;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+President+%40+CyberHunter+Club+;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+CTF+Player+%7C+Security+Researcher)](https://git.io/typing-svg)
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
